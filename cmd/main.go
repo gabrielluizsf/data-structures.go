@@ -8,4 +8,5 @@ func main(){
 	datastructuresgo.Lists()
 	datastructuresgo.Stack()
 	datastructuresgo.Queue()
+	datastructuresgo.Trees()
 }
