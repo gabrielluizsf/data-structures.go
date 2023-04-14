@@ -10,4 +10,5 @@ func main(){
 	datastructuresgo.Queue()
 	datastructuresgo.Trees()
 	datastructuresgo.GraphAlphabet()
+	datastructuresgo.HashTable()
 }
