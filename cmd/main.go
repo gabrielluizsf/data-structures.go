@@ -13,4 +13,5 @@ func main(){
 	datastructuresgo.HashTable()
 	datastructuresgo.Sets()
 	datastructuresgo.Maps()
+	datastructuresgo.LinkedLists()
 }
