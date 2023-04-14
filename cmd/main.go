@@ -18,4 +18,5 @@ func main(){
 	datastructuresgo.Deques()
 	datastructuresgo.Heaps()
 	datastructuresgo.Tries()
+	datastructuresgo.PrintMessage("______________________________________")
 }
