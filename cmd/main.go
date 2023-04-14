@@ -11,4 +11,5 @@ func main(){
 	datastructuresgo.Trees()
 	datastructuresgo.GraphAlphabet()
 	datastructuresgo.HashTable()
+	datastructuresgo.Sets()
 }
