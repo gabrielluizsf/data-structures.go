@@ -17,4 +17,5 @@ func main(){
 	datastructuresgo.PriorityQueues()
 	datastructuresgo.Deques()
 	datastructuresgo.Heaps()
+	datastructuresgo.Tries()
 }
