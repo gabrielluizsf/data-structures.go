@@ -12,4 +12,5 @@ func main(){
 	datastructuresgo.GraphAlphabet()
 	datastructuresgo.HashTable()
 	datastructuresgo.Sets()
+	datastructuresgo.Maps()
 }
