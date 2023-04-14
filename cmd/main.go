@@ -14,4 +14,5 @@ func main(){
 	datastructuresgo.Sets()
 	datastructuresgo.Maps()
 	datastructuresgo.LinkedLists()
+	datastructuresgo.PriorityQueues()
 }
