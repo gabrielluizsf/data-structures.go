@@ -16,4 +16,5 @@ func main(){
 	datastructuresgo.LinkedLists()
 	datastructuresgo.PriorityQueues()
 	datastructuresgo.Deques()
+	datastructuresgo.Heaps()
 }
