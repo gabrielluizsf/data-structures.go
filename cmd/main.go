@@ -9,4 +9,5 @@ func main(){
 	datastructuresgo.Stack()
 	datastructuresgo.Queue()
 	datastructuresgo.Trees()
+	datastructuresgo.GraphAlphabet()
 }
