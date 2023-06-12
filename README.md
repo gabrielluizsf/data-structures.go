@@ -44,9 +44,7 @@ Grafos são estruturas de dados compostas por vértices (ou nós) e arestas (ou 
 
 ## Tabelas Hash (Hash Tables)
 
-Tabelas hash são estruturas de dados que mapeiam chaves para valores. Elas
-
- usam uma função hash para calcular um índice onde o valor correspondente é armazenado. As tabelas hash permitem acesso rápido aos valores com base em suas chaves e são eficientes para inserção, exclusão e busca médias. Elas são amplamente utilizadas em bancos de dados, caches de memória, indexação de dados e algoritmos de pesquisa eficientes.
+Tabelas hash são estruturas de dados que mapeiam chaves para valores. Elas usam uma função hash para calcular um índice onde o valor correspondente é armazenado. As tabelas hash permitem acesso rápido aos valores com base em suas chaves e são eficientes para inserção, exclusão e busca médias. Elas são amplamente utilizadas em bancos de dados, caches de memória, indexação de dados e algoritmos de pesquisa eficientes.
 
 ## Conjuntos (Sets)
 
